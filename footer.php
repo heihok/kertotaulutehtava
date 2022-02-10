@@ -7,10 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    411 Koivu
-    <br>
-    Hämeentie 135 D
-    <br>
-    Helsinki
+    <?php
+    echo "411 Koivu - Hämeentie 135 D - Helsinki"
+    ?>
 </body>
 </html>

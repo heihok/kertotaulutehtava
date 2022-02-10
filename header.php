@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    github testing
+    <?php
+        echo "github testing"
+    ?>
 </body>
 </html>
