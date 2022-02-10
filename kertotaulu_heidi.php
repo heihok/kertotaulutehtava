@@ -38,6 +38,8 @@
 
 ?>
 
+<br>
+
 <?php require "footer.php";?>
 
 </body>
