@@ -11,8 +11,6 @@
 <?php require "header.php";?>
 
 <h1>kertotaulutulostin</h1>
-<br>
-<h2>jolla on myös alaotsikko</h2>
 
 <p>Anna numero, saat kertotaulun!</p>
 
