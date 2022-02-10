@@ -8,6 +8,8 @@
 </head>
 <body>
 
+<?php require "header.php";?>
+
 <h1>kertotaulutulostin</h1>
 <br>
 <h2>jolla on myös alaotsikko</h2>
@@ -35,7 +37,10 @@
             echo "<br>";   
         }
     }
+
 ?>
+
+<?php require "footer.php";?>
 
 </body>
 </html>
